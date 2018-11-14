@@ -18,6 +18,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## Hot To Contribute
 
+Please fork this repository and then issue pull Requests for review.
+
 ### Copyright
 
 Git.Training.
