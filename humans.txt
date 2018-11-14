@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Martin Bestard   martin@bestard.com   @bestard_martin
 
 # THANKS
 
